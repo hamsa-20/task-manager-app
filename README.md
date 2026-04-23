@@ -6,8 +6,8 @@ A production-ready full-stack Task Management application built as part of a Ful
 
 ##  Live Demo
 
-*  Frontend: *(Add your Vercel link here)*
-*  Backend API: *(Add your Render/Railway link here)*
+*  Frontend: https://task-manager-app-eight-mu.vercel.app/
+*  Backend API: https://task-manager-app-dl5r.onrender.com
 
 
 ---
@@ -202,6 +202,6 @@ npm start
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates a complete full-stack SaaS-style application with authentication, database design, API integration, and a clean user interface, following real-world development practices.
